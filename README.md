@@ -42,6 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Beat I Made](https://www.youtube.com/watch?v=4bAUmM5b_PE)
+- [Roblox Ronald](https://www.youtube.com/watch?v=Rx9Vg5QOAjk)
+- [My Season 8 Recap Video!](https://www.youtube.com/watch?v=0OIlMg0Hhbw)
+- [New Season Live EVENT (R.I.P Tilted Towers)](https://www.youtube.com/watch?v=28VEelUvC0Q)
+- [I Met Terrisaurus In The Live Roblox Birthday Hangout! (Code Has Expired)](https://www.youtube.com/watch?v=eK2Ikt3dsDo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
