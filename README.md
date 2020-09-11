@@ -49,7 +49,7 @@
 - [I Met Terrisaurus In The Live Roblox Birthday Hangout! (Code Has Expired)](https://www.youtube.com/watch?v=eK2Ikt3dsDo)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/UCVtwwZVLx2-CE7ylPk6M2eQ)
 
 ---
 
