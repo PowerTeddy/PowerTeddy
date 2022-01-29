@@ -65,7 +65,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="PowerTeddy's Github Stats" src="https://github-readme-stats.powerteddy.vercel.app//api?username=PowerTeddy&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" alt="PowerTeddy's Github Stats" src="https://github-readme-stats.vercel.app/api?hide_border=true&theme=dracula&username=PowerTeddy&show_icons=true" />
 
 </details>
 
