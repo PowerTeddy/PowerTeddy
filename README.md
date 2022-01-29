@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/powerteddy1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPowerTeddy&screen_name=PowerTeddy)
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="PowerTeddy Spotify Playing" width="350" />](https://open.spotify.com/user/ijm0ivrstsy47gxtmhpvbt2q2)
+[![Spotify](spotify-now-playing-pt.vercel.app)](https://open.spotify.com/user/ijm0ivrstsy47gxtmhpvbt2q2)
 
 ### Connect with me:
 
