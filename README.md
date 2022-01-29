@@ -1,7 +1,7 @@
 ### Hi there, I'm [PowerTeddy][website] 👋
 
 [![Website](https://img.shields.io/website?label=powerteddy.epizy.com&style=for-the-badge&url=http%3A%2F%2Fpowerteddy.epizy.com)](http://powerteddy.epizy.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/powerteddy1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPowerTeddy&screen_name=PowerTeddy)
+[![Twitter Follow](https://img.shields.io/twitter/follow/powerteddy1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPowerTeddy&screen_name=PowerTeddy1)
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-now-playing-pt.vercel.app/api/spotify)](https://open.spotify.com/user/ijm0ivrstsy47gxtmhpvbt2q2)
@@ -71,5 +71,5 @@
 
 [website]: http://powerteddy.epizy.com/
 [twitter]: https://twitter.com/powerteddy1
-[youtube]: https://www.youtube.com/channel/UCVtwwZVLx2-CE7ylPk6M2eQ
+[youtube]: https://www.youtube.com/PowerTeddy
 [instagram]: https://instagram.com/powerteddyy
