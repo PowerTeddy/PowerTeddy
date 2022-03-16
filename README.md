@@ -54,15 +54,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/PowerTeddy/discord.js-PT/pull/1) in [PowerTeddy/discord.js-PT](https://github.com/PowerTeddy/discord.js-PT)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="PowerTeddy's Github Stats" src="https://github-readme-stats.vercel.app/api?hide_border=true&theme=dracula&username=PowerTeddy&show_icons=true" />
