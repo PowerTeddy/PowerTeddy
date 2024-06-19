@@ -1,55 +1,9 @@
 ### Hi there, I'm [PowerTeddy][website] 👋
 
-[![Website](https://img.shields.io/website?label=powerteddy.epizy.com&style=for-the-badge&url=http%3A%2F%2Fpowerteddy.epizy.com)](http://powerteddy.epizy.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/powerteddy1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPowerTeddy&screen_name=PowerTeddy1)
-
-### Spotify Playing 🎧
-[![Spotify](https://spotify-now-playing-pt.vercel.app/api/spotify)](https://open.spotify.com/user/ijm0ivrstsy47gxtmhpvbt2q2)
-
-### Connect with me:
-
-[<img align="left" alt="powerteddy.epizy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Power Teddy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Power Teddy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Power Teddy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![PTBot](https://img.shields.io/website?label=powerteddy.epizy.com&style=for-the-badge&url=http%3A%2F%2Fpowerteddy.epizy.com)](http://powerteddy.epizy.com)
+[![Twitter](https://img.shields.io/x.com/follow/powerteddy1?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/PowerTeddy1)
 
 <br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.codecademy.com/learn/learn-html)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.codecademy.com/learn/learn-css)
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://sass-lang.com/guide)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.codecademy.com/learn/introduction-to-javascript)
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/tutorial/tutorial.html)
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](https://www.gatsbyjs.com/tutorial/)
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />](https://graphql.org/learn/)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/docs/guides/getting-started-guide/)
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />](https://www.freecodecamp.org/news/the-deno-handbook/)
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://www.codecademy.com/learn/learn-sql)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.w3schools.com/sql/)
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://docs.mongodb.com/)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.codecademy.com/learn/learn-git)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lab.github.com/)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.codecademy.com/learn/learn-the-command-line)
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [A Beat I Made](https://www.youtube.com/watch?v=4bAUmM5b_PE)
-- [Roblox Ronald](https://www.youtube.com/watch?v=Rx9Vg5QOAjk)
-- [My Season 8 Recap Video!](https://www.youtube.com/watch?v=0OIlMg0Hhbw)
-- [New Season Live EVENT (R.I.P Tilted Towers)](https://www.youtube.com/watch?v=28VEelUvC0Q)
-- [I Met Terrisaurus In The Live Roblox Birthday Hangout! (Code Has Expired)](https://www.youtube.com/watch?v=eK2Ikt3dsDo)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
 
 ---
 
@@ -59,8 +13,3 @@
   <img align="left" alt="PowerTeddy's Github Stats" src="https://github-readme-stats.vercel.app/api?hide_border=true&theme=dracula&username=PowerTeddy&show_icons=true" />
 
 </details>
-
-[website]: http://powerteddy.epizy.com/
-[twitter]: https://twitter.com/powerteddy1
-[youtube]: https://www.youtube.com/PowerTeddy
-[instagram]: https://instagram.com/powerteddyy
